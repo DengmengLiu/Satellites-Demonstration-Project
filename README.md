@@ -1,6 +1,6 @@
 # Satellite Demonstration Project  
 **September 2024 - December 2024**  
-[Link](https://liudengmeng.itch.io/satellite-demonstration)  
+[Demo](https://liudengmeng.itch.io/satellite-demonstration)  
 
 ## Project Overview  
 This project is a **Unity-based demonstration video** designed to assist my supervisor in presenting his research on **low-earth-orbit (LEO) satellite communication**. The video showcases how satellites interact with ground stations and each other through a structured three-scene narrative:  
