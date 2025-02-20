@@ -1,6 +1,5 @@
 # Satellite Demonstration Project  
 **September 2024 - December 2024**  
-**University of Technology Sydney (UTS)**  
 [Link](https://liudengmeng.itch.io/satellite-demonstration)  
 
 ## Project Overview  
